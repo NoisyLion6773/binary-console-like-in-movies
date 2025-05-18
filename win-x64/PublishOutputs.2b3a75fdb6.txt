@@ -1,2 +1,0 @@
-C:\Users\skycl\OneDrive\Documents\source\repos\binary console like in movies\bin\Release\net9.0\win-x64\publish\binary console like in movies.pdb
-C:\Users\skycl\OneDrive\Documents\source\repos\binary console like in movies\bin\Release\net9.0\win-x64\publish\binary console like in movies.exe
